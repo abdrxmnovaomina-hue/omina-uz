@@ -4,6 +4,7 @@ const App = () => {
   return (
     <div>
       <h1>Assalomu aleykom</h1>
+      <p>Men bugun darsda deploy qildim</p>
     </div>
   )
 }
